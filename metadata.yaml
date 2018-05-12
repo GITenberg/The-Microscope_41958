@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41448'
     url: http://www.gutenberg.org/2009/agents/41448
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41958#The-Microscope
 gutenberg_bookshelf: Microscopy
 gutenberg_issued: '2013-01-31'
 gutenberg_type: Text
